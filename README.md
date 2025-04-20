@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ## About me:
-I'm Brendan Tang. I'm currently a student at the University of Toronto sutdying Economics and Statistics
+I'm Brendan Tang. I'm currently a student at the University of Toronto studying Economics and Statistics
 
