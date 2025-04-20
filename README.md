@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## About me:
+I'm Brendan Tang. I'm currently a student at the University of Toronto sutdying Economics and Statistics
+
